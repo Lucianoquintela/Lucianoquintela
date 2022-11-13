@@ -3,9 +3,7 @@
 - 🌱 Atualmente estou cursando análise e desenvolvimento de sistemas...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Como chegar até mim ...
-CERTIFICADOS:
-https://drive.google.com/drive/folders/1-v1da2U5c8l1LcSs4ht90sutQQMJLj07
-<!---
+---
 Lucianoquintela/Lucianoquintela is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
