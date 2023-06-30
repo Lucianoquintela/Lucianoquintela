@@ -1,9 +1,3 @@
-### Hi there 👋
-
-<!--
-
-Here are some ideas to get you started:
-
 - 👋 Oi, eu sou @Lucianoquintela
 Nasci em caucaia no ano de 2006
 
