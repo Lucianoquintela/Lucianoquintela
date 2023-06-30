@@ -2,9 +2,9 @@
 Nasci em caucaia no ano de 2006
 
 - 👀 I’m interested in ...
-Assitir Naruto,One piece,
-boruto,arqueiro.
-Jogar Gta SanAndreas, 
+Assistir Naruto,One piece,
+Boruto,arqueiro.
+Jogar Gta San Andreas, 
 Programação web.
 
 - 🌱 no momento estou estudando análise e desenvolvimento de sistemas 
