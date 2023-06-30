@@ -1,18 +1,17 @@
 👋 Oi, eu sou @Lucianoquintela
 Nasci em caucaia no ano de 2006
-Atualmente estou cursando análise e desenvolvimento de sistemas
 
-HOBIES:
-
-● Assitir Ben 10
-
-● Assitir Naruto
-
+- 👀 I’m interested in ...
+● Assitir Naruto,One piece,
+boruto,arqueiro.
 ● Jogar Gta SanAndreas
-
 ● Programação
-
 ● Filmes
+
+- 🌱 no momento estou estudando análise e desenvolvimento de sistemas 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
 
 CONTATOS:
 
@@ -23,5 +22,5 @@ CONTATOS:
 》FACEBOOK: https://www.facebook.com//luciano.quintela.18
 
 》YOUTUBE : https://youtube.com/channel/UC0RsbgzStkA4qSlWUDX_ubg
-
+-->
 
