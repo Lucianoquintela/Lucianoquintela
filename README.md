@@ -34,12 +34,5 @@
 
 </div>
 
-<style>
-.imagemMySql{
-margin-left:10px;
-position:relative;
-top:10px;
-}
-</style>
 
 
