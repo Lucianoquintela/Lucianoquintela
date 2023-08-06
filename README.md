@@ -1,6 +1,3 @@
-<head>
-<link rel="stylesheet" href="style.css">
-</head>
 ## Bem-vindo(a) ao perfil de Luciano Quintela 😁
 
  <div>
