@@ -12,6 +12,7 @@
 
 <img align="center" alt="HTML" height="30" width="35" src="https://i.postimg.cc/wjwTcGp5/Python-logo-notext-svg.png">
 
+<img src='https://i.postimg.cc/fbdJqm1n/sqlite-1024x454.png' border='0' alt='sqlite-1024x454' height="30" width="35"/>
 </div>
  
  <br>
