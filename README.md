@@ -30,7 +30,82 @@
   
   <a href="https://www.linkedin.com/in/luciano-quintela-dos-santos-4a50b8257
 " target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target=" _blank"></a>
- 
+
+ <table border="2">
+  <th>ANÁLISE E DESENVOLIMENTO DE SISTEMAS</th>
+    
+  <tr>
+  <td>LÓGICA DE PROGRAMAÇÃO</td>
+  </tr>
+  <tr>
+  <td>ARQUITETURA E MANUTENÇÃO DE COMPUTADORES</td>
+  </tr>
+  <tr>
+  <td>PLANEJAMENTO DE CARREIRA</td>
+  </tr>
+  <tr>
+  <td>PROGRAMAÇÃO WEB</td>
+  </tr>
+  <tr>
+  <td>GESTÃO DE STARTUPS 1</td>
+  </tr>
+  <tr>
+  <td>ANÁLISE E PROJETO DE SISTEMAS </td>
+  </tr>
+  <tr>
+  <td>DESIGN DE INTERFACE E USABILIDADE</td>
+  </tr>
+  
+  <tr>
+  <td>BANCO DE DADOS</td>
+  </tr>
+  
+  <tr>
+  <td>SISTEMAS EMBARCADOS</td>
+  </tr>
+  
+  <tr>
+  <td>GESTÃO DE STARTUPS 2</td>
+  </tr>
+  
+  <tr>
+  <td>PROGRAMAÇÃO ORIENTADA A OBJETOS</td>
+  </tr>
+  
+  <tr>
+  <td>SISTEMAS DE SEGURANÇA DA INFORMAÇÃO</td>
+  </tr>
+  
+  <tr>
+  <td>REDE DE COMPUTADORES</td>
+  </tr>
+  
+  <tr>
+  <td>INGLÊS TÉCNICO</td>
+  </tr>
+  
+  <tr>
+  <td>---------</td>
+  </tr>
+  
+  <tr>
+  <td>-------</td>
+  </tr>
+  
+  <tr>
+  <td>--------</td>
+  </tr>
+  
+  <tr>
+  <td>GESTÃO DE STARTUPS 3</td>
+  </tr>
+  
+  <tr>
+  <td>ESTÁGIO</td>
+  </tr>
+  
+  </table>
+  
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
 
 </div>
