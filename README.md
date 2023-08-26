@@ -106,7 +106,10 @@
   
   </table>
   
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+
+
+  ![github contribution grid snake animation](https://raw.githubusercontent.com/Lucianoquintela/Lucianoquintela/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/Lucianoquintela/Lucianoquintela/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 </div>
 
