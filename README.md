@@ -16,8 +16,7 @@
 
 <img align="center" src='https://i.postimg.cc/nr47WZ4X/c33d86-sql-w730.jpg' border='0' alt='sqlite' height="30" width="35"/> // sql
 <img align="center" src='https://i.postimg.cc/k4kFZfLp/arduino-logo-0.png' border='0' alt='sqlite' height="30" width="35"/> // arduino
-
-<a href='https://postimg.cc/F1nKWnBf' target='_blank'><img src='https://i.postimg.cc/3J3DwsjZ/sql.jpg' border='0' alt='sql'/></a>
+https://img2.freepng.es/20180620/ro/kisspng-mysql-ab-relational-database-management-system-lam-5b2a135f2f7971.5839149815294841271945.jpg
 </div>
  
  <br>
