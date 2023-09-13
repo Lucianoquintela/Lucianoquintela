@@ -14,8 +14,9 @@
 
 <img align="center" alt="python" height="30" width="30" src="https://i.postimg.cc/wjwTcGp5/Python-logo-notext-svg.png">
 
-<img align="center" src='https://i.postimg.cc/fbdJqm1n/sqlite-1024x454.png' border='0' alt='sqlite' height="30" width="35"/> // sql
-<img align="center" src='https://i.postimg.cc/fbdJqm1n/sqlite-1024x454.png' border='0' alt='sqlite' height="30" width="35"/> // arduino
+<img align="center" src='https://i.postimg.cc/nr47WZ4X/c33d86-sql-w730.jpg' border='0' alt='sqlite' height="30" width="35"/> // sql
+<img align="center" src='https://i.postimg.cc/k4kFZfLp/arduino-logo-0.png' border='0' alt='sqlite' height="30" width="35"/> // arduino
+
 
 </div>
  
