@@ -86,15 +86,15 @@
   </tr>
   
   <tr>
-  <td>---------</td>
+  <td>QUALIDADE E TESTE DE SOFTWARES</td>
   </tr>
   
   <tr>
-  <td>-------</td>
+  <td>PROJETO INTEGRADOR TI</td>
   </tr>
   
   <tr>
-  <td>--------</td>
+  <td>DESENVOLVIMENTO DE APLICAÇÕES PARA DISPOSITIVOS MÓVEIS</td>
   </tr>
   
   <tr>
