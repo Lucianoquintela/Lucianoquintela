@@ -17,7 +17,7 @@
 <img align="center" src="https://i.postimg.cc/LXbC89bK/Picsart-24-02-20-20-24-47-222.png" border='0' alt='sqlite' height="30" width="35"/>
 <img align="center" src='https://i.postimg.cc/k4kFZfLp/arduino-logo-0.png' border='0' alt='arduino' height="30" width="35"/> 
 
-<img align="center" src='https://cdn1.iconfinder.com/data/icons/soleicons-fill-vol-1/64/reactjs_javascript_library_atom_atomic_react-512.png' border='0' alt='react-native' height="30" width="35"/> 
+<img align="center" src='https://w3schoolsua.github.io/svg/react_icon1.svg' border='0' alt='react-native' height="30" width="35"/> 
 
 </div>
  
