@@ -14,7 +14,7 @@
 
 <img align="center" alt="python" height="30" width="30" src="https://i.postimg.cc/wjwTcGp5/Python-logo-notext-svg.png">
 
-<img align="center" src="https://www.mytecbits.com/wp-content/uploads/SQL-776x424.png?is-pending-load=1" border='0' alt='sqlite' height="30" width="35"/>
+<img align="center" src="https://postimg.cc/DJ1dCThB" border='0' alt='sqlite' height="30" width="35"/>
 <img align="center" src='https://i.postimg.cc/k4kFZfLp/arduino-logo-0.png' border='0' alt='arduino' height="30" width="35"/> 
 
 </div>
