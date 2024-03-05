@@ -48,3 +48,7 @@
 
 
 
+![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_cobrinha_tchola.svg)
+
+
+
