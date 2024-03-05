@@ -48,7 +48,7 @@
 
 
 
-![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_cobrinha_tchola.svg)
+![Snake animation](https://github.com/Lucianoquintela/Lucianoquintela/blob/output/python_cobrinha_tchola.svg)
 
 
 
