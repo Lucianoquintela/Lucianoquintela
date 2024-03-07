@@ -1,45 +1,28 @@
-# Nome da Actions:  
-name: Snake Game
+name: Generate Datas
 
-# Controlador do tempo que sera feito a atualização dos arquivos.
 on:
-  schedule:
-      # Será atualizado a cada 5 horas.
-    - cron: "0 */5 * * *"
-
-# Permite executar na na lista de Actions (utilizado para testes de build).
+  schedule: # execute every 24 hours
+    - cron: "0 */4 * * *"
   workflow_dispatch:
 
-# Regras
 jobs:
   build:
+    name: Jobs to update datas
     runs-on: ubuntu-latest
     steps:
-
-    # Checks repo under $GITHUB_WORKSHOP, so your job can access it
-      - uses: actions/checkout@v2
-
-    # Repositorio que será utilizado para gerar os arquivos.
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Snake Animation
+      - name: generate python_cobrinha_tchola.svg
+        uses: Platane/snk@v3
         with:
-          github_user_name: Lucianoquintela #Seu usuario
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/python_cobrinha_tchola.svg?palette=github-dark&color_snake=green&color_dots=#1c2e4f,#214377,#2159a2,#1b70d0,#0088ff
 
-      - run: git status
-
-      # Para as atualizações.
-      - name: Push changes
-        uses: ad-m/github-push-action@master
+          
+          
+      - name: push python_cobrinha_tchola.svg to the output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: master
-          force: true
-
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          # the output branch we mentioned above
           target_branch: output
           build_dir: dist
         env:
