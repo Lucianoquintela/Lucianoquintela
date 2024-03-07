@@ -47,7 +47,7 @@
 </div>
 
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/JovencioNeto/JovencioNeto/blob/output/python_cobrinha_tchola.svg)
 
 
 
