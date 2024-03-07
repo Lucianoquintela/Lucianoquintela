@@ -21,7 +21,7 @@
 
 
 <img align="center" src="https://github.com/Lucianoquintela/Lucianoquintela/assets/117698113/cebef89d-8f91-43fc-b9a7-4859f561e2fe" border='0' alt='figma' height="30" width="35"/>
-<img align="center" src="https://th.bing.com/th?id=OSK.45962e2c46c7cbc263880160290e9005&w=122&h=122&c=7&o=6&pid=SANGAM" border='0' alt='vscode' height="30" width="35"/>
+<img align="center" src="https://iconape.com/wp-content/png_logo_vector/visual-studio-code.png" border='0' alt='vscode' height="30" width="35"/>
 
 </div>
  
