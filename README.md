@@ -20,7 +20,8 @@
 <img align="center" src='https://w3schoolsua.github.io/svg/react_icon1.svg' border='0' alt='react-native' height="30" width="35"/> 
 
 
-<img align="center" src="https://th.bing.com/th?id=OSK.45962e2c46c7cbc263880160290e9005&w=122&h=122&c=7&o=6&pid=SANGAM" border='0' alt='sqlite' height="30" width="35"/>
+<img align="center" src="https://th.bing.com/th?id=OSK.45962e2c46c7cbc263880160290e9005&w=122&h=122&c=7&o=6&pid=SANGAM" border='0' alt='figma' height="30" width="35"/>
+<img align="center" src="https://th.bing.com/th?id=OSK.45962e2c46c7cbc263880160290e9005&w=122&h=122&c=7&o=6&pid=SANGAM" border='0' alt='vscode' height="30" width="35"/>
 
 </div>
  
