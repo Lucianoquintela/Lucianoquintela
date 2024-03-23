@@ -20,9 +20,7 @@
 <img align="center" src='https://w3schoolsua.github.io/svg/react_icon1.svg' border='0' alt='react-native' height="30" width="35"/> 
 
 
-<img align="center" src="" border='0' alt='figma' height="30" width="35"/>
 
-<img align="center" src="" border='0' alt='vscode' height="30" width="35"/>
 
 </div>
  
