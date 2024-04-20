@@ -6,7 +6,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucianoquintela&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
    
 <div style="display: inline_block"><br>
@@ -57,5 +56,5 @@
 
 ![Snake animation](https://github.com/Lucianoquintela/Lucianoquintela/blob/output/github-contribution-grid-snake.svg)
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
