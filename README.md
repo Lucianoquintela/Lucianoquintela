@@ -56,5 +56,5 @@
 
 ![Snake animation](https://github.com/Lucianoquintela/Lucianoquintela/blob/output/github-contribution-grid-snake.svg)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
 
