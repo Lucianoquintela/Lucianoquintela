@@ -42,15 +42,6 @@
 
  
   
-  
-
-
-### Portfólio
-[Luciano Quintela](https://lucianoquintela.github.io/portfolio/)
-
-
-
-
 </div>
 
 
