@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Luciano Quintela 😁
+## Bem-vindo(a) ao perfil de Luciano Quintela
 
  <div>
   <a href="https://github.com/Lucianoquintela">
